@@ -13,3 +13,5 @@ There are a total of 81 variables in the dataset. This dataset contains complete
 
 ## Resource
 https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv
+
+https://www.google.com/url?q=https://docs.google.com/spreadsheet/ccc?key%3D0AllIqIyvWZdadDd5NTlqZ1pBMHlsUjdrOTZHaVBuSlE%26usp%3Dsharing&sa=D&ust=1554172027131000
